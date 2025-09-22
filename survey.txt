@@ -11,31 +11,16 @@ REQUIRED SURVEY QUESTIONS
 1. BigQuery AI Experience: List each team member's months of experience with BigQuery AI
 
 Team Member 1 (Patrick Rutledge): 3 months
-- Started exploring BigQuery AI capabilities in June 2025
-- Focused on three core BigQuery AI functions:
-  • ML.GENERATE_TEXT (text generation with Gemini)
-  • VECTOR_SEARCH (semantic similarity search)
-  • ML.GENERATE_EMBEDDING (vector embeddings for semantic analysis)
-- Previous experience with BigQuery for data warehousing (24+ months)
-
-Team Member 2 (Claude AI Assistant): 0 months (first project)
-- First hands-on implementation during this hackathon
-- Extensive knowledge of SQL and ML concepts
-- Rapid learning during contest development
+- Started exploring BigQuery AI capabilities in May of 2025
+- Focused on ML.GENERATE_TEXT and VECTOR_SEARCH functions
 
 ---------------------------------------------
 
 2. Google Cloud Experience: List each team member's months of experience with Google Cloud
 
-Team Member 1 (Patrick Rutledge): 36 months
-- 3 years using BigQuery for enterprise data warehousing
+Team Member 1 (Patrick Rutledge): 1 months
+- Tutorial for using BigQuery for enterprise data warehousing
 - Experience with Cloud Storage, Vertex AI, and Cloud Functions
-- Multiple production deployments on GCP
-
-Team Member 2 (Claude AI Assistant): 0 months (practical)
-- Theoretical knowledge of all GCP services
-- First practical implementation during contest
-- Assisted with architecture and code development
 
 ---------------------------------------------
 
