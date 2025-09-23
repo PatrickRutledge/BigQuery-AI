@@ -88,6 +88,12 @@ WITH executive_input AS (...),
 SELECT unified_intelligence
 ```
 
+## 🎥 Video Demonstration
+
+**Watch ATLAS in Action**: [https://youtu.be/kyH8YM6o10Y](https://youtu.be/kyH8YM6o10Y)
+
+See how ATLAS transforms executive decision-making in real-time using BigQuery AI's complete capabilities.
+
 ## 📁 Repository Structure
 
 ```
